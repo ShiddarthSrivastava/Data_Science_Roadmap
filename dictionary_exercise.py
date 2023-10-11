@@ -1,4 +1,4 @@
-country={"china":143,"india":136,"USA":32,'Pakistan':21}
+country={"china":143,"india":136,"usa":32,'pakistan':21}
 
 def print_values():
     for key, value in country.items():
