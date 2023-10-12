@@ -24,7 +24,7 @@ And that has made all the difference."""
 with open("poem.txt","w") as f:
     f.write(s)
 
-f= open("C://Users//Shiddarth//Desktop//poem.txt","r")
+f= open("poem.txt","r")
 poem= f.read()
 poem_split= poem.split()
 word_count=dict()
